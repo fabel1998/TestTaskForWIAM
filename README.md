@@ -1,7 +1,7 @@
 # Установка 
 
 
-```terminal
+```basg
 npm install
 
 ```terminal
